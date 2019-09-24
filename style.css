@@ -1175,14 +1175,13 @@ body:not(.edit) .slider-indicators {
 
 .bck-box-1 .bck-title {
     color: #fff;
-    font-size: 2rem;
+    font-size: 1.8rem;
     font-weight: bold;
     text-align: left;
     background-color: #A7013D;
-    padding: 10px;
-    padding-left: 15px;
+    padding: 5px 15px;
     width: fit-content;
-    border-top: 15px solid #C8DD69;
+    border-top: 10px solid #C8DD69;
 }
 
 .bck-box-1 .bck-content {
