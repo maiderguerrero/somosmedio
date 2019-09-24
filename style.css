@@ -137,7 +137,6 @@ body {
     font-size: 1.8rem;
     font-weight: normal;
     text-align: left;
-    font-family: Campton;
 }
 
 .body_clase .content-wrapper,
@@ -1166,18 +1165,8 @@ body:not(.edit) .slider-indicators {
     padding: 10px;
 }
 
-/*CAJA1*/
+/*CAJA 1*/
 
-.bck-box-1 .bck-title:before {
-    content: " ";
-    position: absolute;
-    padding: 20px;
-    background-image: url(imagenes_difusion/img_multi.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    top: 10px;
-    left: 17px;
-}
 
 .bck-box .bck-box-1 {
     min-height: 80px;
@@ -1189,16 +1178,18 @@ body:not(.edit) .slider-indicators {
     font-size: 2rem;
     font-weight: bold;
     text-align: left;
-    background-color: #808080;
+    background-color: #A7013D;
     padding: 10px;
-    padding-left: 70px;
+    padding-left: 15px;
+    width: fit-content;
+    border-top: 15px solid #C8DD69;
 }
 
-.bck-box-1{
-    background: #E5E5E5;
+.bck-box-1 .bck-content {
+    border-top: 2px solid #A7013D;
+    border-left: 2px solid #A7013D;
+    margin-top: 5px;
 }
-
-
 
 
 /*CAJA2*/
