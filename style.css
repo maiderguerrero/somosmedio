@@ -879,6 +879,8 @@ body:not(.edit) .slider-indicators {
     font-weight: bold;
     font-size: 4.8rem;
  	color: #A7013D;
+ 	width: fit-content;
+ 	padding-top: 5px;
 }
 
 /*Título 5*/
