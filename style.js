@@ -20,7 +20,7 @@
 				{ name: 'Título 3', element: 'h3', attributes: { 'class': 'bck-title bck-title-3'} },
 				{ name: 'Título 4', element: 'h3', attributes: { 'class': 'bck-title bck-title-4'} },
 
-				{ name: 'Énfasis 1', element: 'span', attributes: { 'class': 'bck-enfasis'} },
+				{ name: 'Énfasis 1', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
 				{ name: 'Énfasis-2', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
 				{ name: 'Énfasis-3', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
 				{ name: 'Énfasis-4', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
