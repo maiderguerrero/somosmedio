@@ -1306,6 +1306,7 @@ body:not(.edit) .slider-indicators {
 
 .bck-box.bck-box-3 .bck-content {
  	background: #EFEDD2;
+ 	border: none;
 }
 
 .bck-box.bck-box-3 .bck-title {
