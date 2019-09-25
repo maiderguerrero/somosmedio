@@ -1268,6 +1268,8 @@ body:not(.edit) .slider-indicators {
     width: auto;
 }
 
+/*
+
 .bck-box.bck-box-2 .bck-title:before {
     content: " ";
     position: absolute;
@@ -1294,18 +1296,16 @@ body:not(.edit) .slider-indicators {
     content: '';
 }
 
+*/
+
 /*CAJA 3*/
 
 .bck-box.bck-box-3 {
     background: #fff;
-    border: 3px dotted #9D9D9C;
-    text-align: left;
 }
 
 .bck-box.bck-box-3 .bck-content {
-    padding: 4px 10px 15px;
-    width: 80%;
-    margin-left: 40px;
+ 	background: #EFEDD2;
 }
 
 .bck-box.bck-box-3 .bck-title {
