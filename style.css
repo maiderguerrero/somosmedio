@@ -873,11 +873,12 @@ body:not(.edit) .slider-indicators {
     margin-left: -10px;
 }
 
+/*Título 4*/
 
 .bck-title-4 {
     font-weight: bold;
     font-size: 4.8rem;
-    margin-left: 20px;
+ 	color: #A7013D;
 }
 
 .bck-enfasis-1 {
