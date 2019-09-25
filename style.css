@@ -855,12 +855,24 @@ body:not(.edit) .slider-indicators {
 }
 
 
+/*Título 3*/
 
 .bck-title-3 {
-    font-family: Campton light;
-    font-weight: 100;
-    font-size: 1.7rem;
+    font-size: 1.6rem;
+    border-top: 1px solid #808185;
+    padding: 10px;
 }
+
+
+.bck-title-3:before {
+    content: " ";
+    padding: 3px 6px;
+    background: #808185;
+    position: absolute;
+    margin-top: -17px;
+    margin-left: -10px;
+}
+
 
 .bck-title-4 {
     font-weight: bold;
