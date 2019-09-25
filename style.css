@@ -835,8 +835,7 @@ body:not(.edit) .slider-indicators {
     padding-bottom: 5px;
     font-weight: bold;
     border-bottom: 2px solid #A7003D;
-    border-top: 2px solid #A7003D;
-    background: #c9dd6a;
+  
 }
 
 .bck-title-1:before {
