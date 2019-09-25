@@ -13,12 +13,12 @@
 		extraPlugins: ['blink_popover'],
 		ckEditorStyles: {
 			name: 'somosmedio',
-			styles: [
-				{ name: 'Título Prepárate', element: 'h2', attributes: { 'class': 'bck-title bck-title-preparate'} },
+			styles: [				
 				{ name: 'Título 1', element: 'h2', attributes: { 'class': 'bck-title bck-title-1'} },
 				{ name: 'Título 2', element: 'h3', attributes: { 'class': 'bck-title bck-title-2'} },
 				{ name: 'Título 3', element: 'h3', attributes: { 'class': 'bck-title bck-title-3'} },
 				{ name: 'Título 4', element: 'h3', attributes: { 'class': 'bck-title bck-title-4'} },
+				{ name: 'Título 5', element: 'h3', attributes: { 'class': 'bck-title bck-title-5'} },
 
 				{ name: 'Énfasis 1', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
 				{ name: 'Énfasis 2', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
