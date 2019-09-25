@@ -1983,7 +1983,7 @@ body:not(.edit) .slider-indicators {
 /**TABLA**/
 table,
 .bck-table {
-    border: 1px solid #ccc;
+    border: 1px solid #A7013D;
 }
 
 table td,
@@ -1994,15 +1994,17 @@ table td,
 
 table td.bck-td-1 {
     color: #fff;
-    background-color: #9ACB1E;
+    font-weight: bold;
+    background-color: #C75E9F;
+    text-align: center;
 }
 
 table td.bck-td-2 {
-    background-color: #DCE29F;
+    background-color: #fff;
 }
 
 table td.bck-td-3 {
-    background-color: #E5E9B7;
+    background-color: #E0A9CB;
 }
 
 table td.bck-td-4 {
