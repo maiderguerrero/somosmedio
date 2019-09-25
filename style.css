@@ -892,7 +892,8 @@ body:not(.edit) .slider-indicators {
 }    
 
 .bck-enfasis-3 {
-    color: #728fab;
+    text-align: right;
+    font-size: 1.6rem;
  }
 
  .bck-enfasis-4 {
