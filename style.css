@@ -1187,6 +1187,7 @@ body:not(.edit) .slider-indicators {
 .bck-box-1 .bck-content {
     border-top: 2px solid #A7013D;
     border-left: 2px solid #A7013D;
+    border-bottom: 2px solid #A7013D;
     margin-top: 5px;
 }
 
