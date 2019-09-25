@@ -879,8 +879,7 @@ body:not(.edit) .slider-indicators {
     font-weight: bold;
     font-size: 4.8rem;
  	color: #A7013D;
- 	width: fit-content;
- 	padding-top: 5px;
+ 	
 }
 
 /*Título 5*/
@@ -889,6 +888,8 @@ body:not(.edit) .slider-indicators {
     font-size: 1.8rem;
  	color: #636466;
  	border-top: 2px solid #C8DD69;
+ 	width: fit-content;
+ 	padding-top: 5px;
 }
 
 /*Énfasis*/
