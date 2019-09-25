@@ -801,6 +801,8 @@ body:not(.edit) .slider-indicators {
     font-size: 2.1rem;
 }
 
+/*Título Prepárate*/
+
 .bck-title-preparate{
     color: #fff;
     font-size: 2.1rem;
@@ -824,13 +826,24 @@ body:not(.edit) .slider-indicators {
 }
 
 
+/*Título 1*/
+
+
 .bck-title-1 {
-    color: #333;
+    color: #A7003D;
     font-size: 2.3rem;
     padding-bottom: 5px;
-    margin-left: 25px;
-    font-family: Campton;
     font-weight: bold;
+    border-bottom: 2px solid #A7003D;
+    border-top: 2px solid #A7003D;
+}
+
+.bck-title-1:before {
+    content: "EM CLASSE";
+    background: #C9DD6A;
+    padding: 0px 15px;
+    margin-right: 10px;
+    background: #c9dd6a;
 }
 
 
