@@ -1244,12 +1244,15 @@ body:not(.edit) .slider-indicators {
 }
 
 .bck-box.bck-box-2 .bck-title {
-    padding: 10px 25px;
-    border: 0;
-    color: #9D9D9C;
-    font-size: 1.8rem;
-    font-weight: bold;
-    background: #fff;
+   padding: 5px 25px;
+   border: 5px solid #C55D9E;
+   border-left: 30px solid #C55D9E;
+   color: #fff;
+   font-size: 1.8rem;
+   font-weight: bold;
+   background: #A7003D;
+   width: fit-content;
+   margin-bottom: -3px;
 }
 
 .bck-box.bck-box-2 .bck-title p {
