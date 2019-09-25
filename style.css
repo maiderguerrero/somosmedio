@@ -1085,6 +1085,7 @@ body:not(.edit) .slider-indicators {
 
 }
 
+
 /*LISTA ORDENADA 3*/
 #actividad .content .cke_contents .bck-ol-3,
 #actividad .content .texto_curso .bck-ol-3,
@@ -1107,7 +1108,7 @@ body:not(.edit) .slider-indicators {
 #actividad .content .texto_curso ol.bck-ol-3 li:before,
 #actividad .popover-content ol.bck-ol-3 li:before,
 #actividad .content .workspace ul li ol.bck-ol-3 li:before {
-    content: counter(bck-li-counter, upper-alpha)'.';
+    content: counter(bck-li-counter, lower-alpha)'.';
     position: absolute;
     color: #000;
     font-size: 1.8rem;
@@ -1116,6 +1117,7 @@ body:not(.edit) .slider-indicators {
     left: -20px;
     font-family: inherit;
 }
+
 
 /*LISTA ORDENADA 4*/
 #actividad .content .cke_contents .bck-ol-4,
@@ -1139,7 +1141,7 @@ body:not(.edit) .slider-indicators {
 #actividad .content .texto_curso ol.bck-ol-4 li:before,
 #actividad .popover-content ol.bck-ol-4 li:before,
 #actividad .content .workspace ul li ol.bck-ol-4 li:before {
-    content: counter(bck-li-counter, lower-alpha)'.';
+    content: counter(bck-li-counter, upper-alpha)'.';
     position: absolute;
     color: #000;
     font-size: 1.8rem;
@@ -1148,6 +1150,8 @@ body:not(.edit) .slider-indicators {
     left: -20px;
     font-family: inherit;
 }
+
+
 
 /**/
 
