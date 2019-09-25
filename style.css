@@ -881,6 +881,16 @@ body:not(.edit) .slider-indicators {
  	color: #A7013D;
 }
 
+/*Título 5*/
+
+.bck-title-5 {
+    font-size: 1.8rem;
+ 	color: #636466;
+ 	border-top: 2px solid #C8DD69;
+}
+
+/*Énfasis*/
+
 .bck-enfasis-1 {
     color: #EC008D;
 }
