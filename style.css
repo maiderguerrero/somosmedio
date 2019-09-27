@@ -2575,6 +2575,7 @@ td, th {
     background-color: transparent;
     border: none;
     margin-top: 10px;
+    margin-left: 40px;
 }
 
 .bck-dropdown-1 .bck-dropdown-button {
