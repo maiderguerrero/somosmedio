@@ -2578,8 +2578,9 @@ td, th {
 }
 
 .bck-dropdown-1 .bck-dropdown-button {
-    margin-top: 0px;
+    margin-top: -15px;
     font-size: 1.2rem;
+    text-align: left;
 }
 
 .bck-dropdown-1 .bck-dropdown-icon {
@@ -2599,13 +2600,16 @@ td, th {
 .bck-dropdown-1 .bck-dropdown-titulo {
     font-size: 1.8rem;
     padding-left: 0px;
+    color: #ed1496;
 }
 
 .bck-dropdown-1 .bck-dropdown-content {
     background-color: #fff;
-    border: 1px solid #DDDDDD;
+    border: 1px solid #ed1496;
     padding-left: 17px;
     max-height: 800%;
+    font-size: 16px;
+    padding: 20px;
 }
 
 /**/
