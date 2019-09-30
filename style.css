@@ -1935,8 +1935,8 @@ body:not(.edit) .slider-indicators {
     width: 25px;
 }
 
-.item-container .icon-critical:before {
-    background-image: url(imagenes_difusion/critical_thinking_dark.png);
+.item-container .icon-triangulo-rosa:before {
+    background-image: url(images/triangulo_rosa.png);
 }
 
 .item-container .icon-critical-gold:before {
