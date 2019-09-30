@@ -1313,6 +1313,49 @@ body:not(.edit) .slider-indicators {
 /*CAJA 3*/
 
 .bck-box.bck-box-3 {
+    background: #fff;
+}
+
+.bck-box.bck-box-3 .bck-content {
+    background: #EFEDD2;
+    border: none;
+}
+
+.bck-box.bck-box-3 .bck-title {
+    padding: 10px 25px;
+    border: 0px;
+    color: #9D9D9C;
+    font-size: 1.8rem;
+    font-weight: bold;
+    background: #fff;
+}
+
+.bck-box-3 .bck-title:before {
+    content: " ";
+    position: absolute;
+    padding: 20px;
+    background: url(imagenes_difusion/img_campana.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    top: -10px;
+    left: -22px;
+}
+
+/*Caja 3 dentro de caja 6*/
+.bck-box-6 .bck-box-3 .bck-title:before {
+    content: " ";
+    position: absolute;
+    padding: 20px;
+    background: url(imagenes_difusion/img_campana.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    top: -10px;
+    left: -22px;
+}
+
+/*CAJA 4*/
+
+.bck-box.bck-box-4 {
     border: 2px solid #9D9EA2;
     margin: auto;
 }
@@ -2096,269 +2139,6 @@ td, th {
 
 /**/
 
-/*TAGS*/
-
-/*Tag verde*/
-
-.activitytag_verde_proyectos #actividad .content .header .title h3{
-   background: #556F35;
-}
-
-.activitytag_verde_proyectos .bck-title-1{
-   color: #556F35;
-}
-
-.activitytag_verde_proyectos .bck-title-preparate{
-    color: #fff;
-    font-size: 2.1rem;
-    font-weight: bold;
-    background: #556F35;
-    padding: 12px;
-    padding-left: 25px;
-}
-
-.activitytag_verde_proyectos .bck-box.bck-box-5{
-    padding: 10px;
-    background-color: #556f3526;
-}
-
-.activitytag_verde_proyectos .bck-box.bck-box-3 {
-   border: 3px dotted #556F35;
-}
-
-.activitytag_verde_proyectos .bck-box-3 .bck-title:before {
-    background: url(imagenes_difusion/campana_verde.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-
-.activitytag_verde_proyectos .bck-box.bck-box-3 .bck-title {
-    color: #556F35;
-}
-
-.activitytag_verde_proyectos .bck-box.bck-box-4 {
-   border: 3px dotted #556F35;
-}
-
-.activitytag_verde_proyectos .bck-box-4 .bck-title:before {
-    background: url(imagenes_difusion/engranajes_verde.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-
-.activitytag_verde_proyectos .bck-box.bck-box-4 .bck-title {
-    color: #556F35;
-}
-
-.activitytag_verde_proyectos .bck-enfasis-8 {
-    background-color: #556F35;
-}
-
-
-/*Tag negra*/
-
-.activitytag_negra_proyectos #actividad .content .header .title h3{
-   background: #333;
-}
-
-.activitytag_negra_proyectos .bck-box.bck-box-3 {
-   border: 3px dotted #000000;
-}
-
-.activitytag_negra_proyectos .bck-box-3 .bck-title:before {
-    background: url(imagenes_difusion/campana_negra.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-
-.activitytag_negra_proyectos .bck-box.bck-box-3 .bck-title {
-    color: #000000;
-}
-
-.activitytag_negra_proyectos .bck-box.bck-box-4 {
-   border: 3px dotted #000000;
-}
-
-.activitytag_negra_proyectos .bck-box-4 .bck-title:before {
-    background: url(imagenes_difusion/engranajes_negra.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-
-.activitytag_negra_proyectos .bck-box.bck-box-4 .bck-title {
-    color: #000000;
-}
-
-/**/
-
-/*Tag gold*/
-.activitytag_gold_proyectos .bck-box.bck-box-3 {
-   border: 3px dotted #E2C95F;
-}
-
-.activitytag_gold_proyectos .bck-box-3 .bck-title:before {
-    background: url(imagenes_difusion/campana_gold.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-
-.activitytag_gold_proyectos .bck-box.bck-box-3 .bck-title {
-    color: #E2C95F;
-}
-
-.activitytag_gold_proyectos .bck-box.bck-box-4 {
-   border: 3px dotted #E2C95F;
-}
-
-.activitytag_gold_proyectos .bck-box-4 .bck-title:before {
-    background: url(imagenes_difusion/engranajes_gold.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-
-.activitytag_gold_proyectos .bck-box.bck-box-4 .bck-title {
-    color: #E2C95F;
-}
-
-/**/
-
-/*Tag azul*/
-
-.activitytag_azul_proyectos #actividad .content .header .title h3{
-   background: #3B5A65;
-}
-
-.activitytag_azul_proyectos .bck-title-1{
-   color: #3B5A65;
-}
-
-.activitytag_azul_proyectos .bck-title-preparate{
-    color: #fff;
-    font-size: 2.1rem;
-    font-weight: bold;
-    background: #3B5A65;
-    padding: 12px;
-    padding-left: 25px;
-}
-
-.activitytag_azul_proyectos .bck-box.bck-box-3 {
-   border: 3px dotted #385963;
-}
-
-.activitytag_azul_proyectos .bck-box-3 .bck-title:before {
-    background: url(imagenes_difusion/campana_azul.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-
-.activitytag_azul_proyectos .bck-box.bck-box-3 .bck-title {
-    color: #385963;
-}
-
-.activitytag_azul_proyectos .bck-box.bck-box-4 {
-   border: 3px dotted #385963;
-}
-
-.activitytag_azul_proyectos .bck-box-4 .bck-title:before {
-    background: url(imagenes_difusion/engranajes_azul.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-
-.activitytag_azul_proyectos .bck-box.bck-box-4 .bck-title {
-    color: #385963;
-}
-
-.activitytag_azul_proyectos .bck-enfasis-8 {
-    background-color: #385963;
-}
-
-/*Tag verde claro*/
-
-.activitytag_verdeclaro_proyectos #actividad .content .header .title h3{
-   background: #00943C;
-}
-
-.activitytag_verdeclaro_proyectos .bck-title-1{
-   color: #00943C;
-}
-
-.activitytag_verdeclaro_proyectos .bck-title-preparate{
-    color: #fff;
-    font-size: 2.1rem;
-    font-weight: bold;
-    background: #00943C;
-    padding: 12px;
-    padding-left: 25px;
-}
-
-.activitytag_verdeclaro_proyectos .bck-box.bck-box-5 {
-    padding: 10px;
-    background-color: #00943c40;
-    top: -20px;
-}
-
-/*tag rojo*/
-
-.activitytag_rojo_proyectos #actividad .content .header .title h3{
-   background: #D73534;
-}
-
-.activitytag_rojo_proyectos .bck-title-1{
-   color: #D73534;
-}
-
-.activitytag_rojo_proyectos .bck-title-preparate{
-    color: #fff;
-    font-size: 2.1rem;
-    font-weight: bold;
-    background: #333;
-    padding: 12px;
-    padding-left: 25px;
-}
-
-.activitytag_rojo_proyectos .bck-box.bck-box-5{
-    padding: 10px;
-    background-color: #d7353430;
-    top: -20px;
-}
-
-
-/*activity tag morado*/
-
-.activitytag_morado_proyectos #actividad .content .header .title h3{
-   background: #853F57;
-}
-
-.activitytag_morado_proyectos .bck-title-1 {
-    color: #853F57;
-    font-size: 2.3rem;
-    padding-bottom: 5px;
-    margin-left: 0;
-}
-
-.activitytag_morado_proyectos .bck-title-preparate{
-    background: #853F57;
-}
-
-
-.activitytag_morado_proyectos .bck-box.bck-box-5{
-    background-color: #853f5754;
-
-}
-
-
-/*tag naranja*/
-
-.activitytag_naranja_proyectos #actividad .content .header .title h3{
-   background: #E07C3E;
-}
-
-/*WB*/
-
-.activitytag_wb_proyectos #actividad .content .header .title h3{
-   background: #50748A;
-}
 
 
 /**/
@@ -2894,4 +2674,38 @@ td, th {
 }
 
 
+/*--------------------->TAGS<----------------------*/
 
+/*Tag Inglés*/
+.unittag_ingles_somos_medio .bck-box-1 .bck-title {
+	background-color: #BA5F30;	
+}
+
+.unittag_ingles_somos_medio .bck-box-1 .bck-content {
+	border-top: 2px solid #BA5F30;
+    border-left: 2px solid #BA5F30;
+    border-bottom: 2px solid #BA5F30;
+}
+
+.unittag_ingles_somos_medio .bck-title-1 {
+	color: #ba5f30;
+	border-bottom: 2px solid #ba5f30;
+}
+
+.unittag_ingles_somos_medio #actividad .content .cke_contents .bck-ol-1 li:before, 
+.unittag_ingles_somos_medio #actividad .content .texto_curso .bck-ol-1 li:before, 
+.unittag_ingles_somos_medio #actividad .popover-content .bck-ol-1 li:before, 
+.unittag_ingles_somos_medio #actividad .content .workspace ul li .bck-ol-1 li:before {
+	    background: #ba5f30;
+}
+
+.unittag_ingles_somos_medio .bck-box.bck-box-2 .bck-title {
+	background: #ba5f30;
+	border: 5px solid #E0916B;
+    border-left: 30px solid #E0916B;
+}
+
+.unittag_ingles_somos_medio .bck-box.bck-box-2 .bck-content {
+    border-bottom: 2px solid #e0916b;
+    border-top: 5px solid #e0916b;
+}
