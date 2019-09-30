@@ -1379,8 +1379,17 @@ body:not(.edit) .slider-indicators {
 .bck-box.bck-box-5 {
     margin: auto;
     background: #DDEAD0;
-    padding: 15px;
+    padding: 15px; 
+}
 
+/*Caja 5 en caja 1*/
+
+.bck-box-1 .bck-content .bck-box-5 .bck-content {
+    border-top: none;
+    border-left: none;
+    border-bottom: none;
+
+}
 
 /*CAJADUO - CAJA 6*/
 
