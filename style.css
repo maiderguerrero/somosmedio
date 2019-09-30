@@ -981,6 +981,7 @@ body:not(.edit) .slider-indicators {
 
 /*lista desordenada por defecto, sin seleccionar estilo para la ul*/
 
+/*
 #actividad .content .texto_curso ul li:before,
 #actividad .content .workspace ul li ul li:before {
     height: 9px;
@@ -991,6 +992,7 @@ body:not(.edit) .slider-indicators {
     -moz-border-radius: 50%;
     border-radius: 50%;
 }
+*/
 
 /*lista desordenada */
 
