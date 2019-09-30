@@ -50,7 +50,7 @@
 				{ name: 'Celda 3', element: 'td', attributes: { 'class': 'bck-td bck-td-3'} },
 				{ name: 'Celda 4', element: 'td', attributes: { 'class': 'bck-td bck-td-4'} },
 
-				{ name: 'Icono Critical Thinking', element: 'span', attributes: { 'class': 'icon icon-critical' } },
+				{ name: 'Icono Triangulo Rosa', element: 'span', attributes: { 'class': 'icon icon-triangulo-rosa' } },
 				{ name: 'Icono Critical Thinking Gold', element: 'span', attributes: { 'class': 'icon icon-critical-gold' } },
 				{ name: 'Icono Critical Verde', element: 'span', attributes: { 'class': 'icon icon-critical-verde' } },
 				{ name: 'Icono Critical Negro', element: 'span', attributes: { 'class': 'icon icon-critical-negro' } },
