@@ -2711,3 +2711,14 @@ td, th {
     border-bottom: 2px solid #e0916b;
     border-top: 5px solid #e0916b;
 }
+
+.unittag_ingles_somos_medio .texto_curso ul li:before, 
+.unittag_ingles_somos_medio .workspace ul li ul li:before, 
+.unittag_ingles_somos_medio .cke_contents ul li:before, 
+.unittag_ingles_somos_medio .preview ul li:before, 
+.unittag_ingles_somos_medio .classify-item ul li:before, 
+.unittag_ingles_somos_medio #actividad .workspace.multiple-choice .js-item ul li:before, 
+.unittag_ingles_somos_medio #actividad .workspace.matching .box ul li:before, 
+.unittag_ingles_somos_medio #actividad .workspace.ordenar .js-rank-item ul li:before {
+    background-color: #e0916b;
+}
