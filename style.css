@@ -1376,38 +1376,11 @@ body:not(.edit) .slider-indicators {
 /*CAJA 5*/
 
 
-.bck-box-5 .bck-box-5 .bck-title {
-    padding: 10px 25px;
-    border: 0px;
-    color: #9D9D9C;
-    background: #fff;
-    font-size: 1.8rem;
-    font-weight: bold;
-}
-
-
-/*CAJA5*/
-
 .bck-box.bck-box-5 {
-    min-height: 0;
-    margin-top: 15px;
-}
+    margin: auto;
+    background: #DDEAD0;
+    padding: 15px;
 
-.bck-box-5 .bck-title {
-    border-bottom: 0px solid #eee;
-    color: #fff;
-    font-size: 2.1rem;
-    font-weight: bold;
-    background-color: #bf0811;
-    padding: 10px;
-    text-align: center;
-}
-
-.bck-box.bck-box-5 {
-    padding: 10px;
-    background-color: #D1E3F0;
-    top: -20px;
-}
 
 /*CAJADUO - CAJA 6*/
 
