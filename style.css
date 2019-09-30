@@ -2039,14 +2039,12 @@ body:not(.edit) .slider-indicators {
 
 /**/
 
-/**TABLA**/
-table,
-.bck-table {
+/**TABLA 1**/
+.bck-table-1 {
     border: 1px solid #A7013D;
 }
 
-table td,
-.bck-table td {
+.bck-table-1 td {
     padding: 10px;
     border-color: #ccc;
 }
@@ -2075,6 +2073,12 @@ table td.bck-td-4 {
 
 td, th {
     padding-left: 10px;
+}
+
+/*Tabla 2*/
+.bck-table-2{
+	border: 2px solid #9D9EA2;
+
 }
 
 /**/
