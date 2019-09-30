@@ -238,15 +238,15 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover,
 }
 
 #indice .unit-content .header .title {
-    color: #fff;
-    background: transparent;
+    color: #333;
+    background: #ffffffc7;
     float: left;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 700;
     line-height: 34px;
-    padding: 5px 20px;
-    height: 88px;
-    margin: 5px 140px 20px 8px;
+    padding: 6px 0px 2px 15px;
+    height: 30%;
+    margin: 15px 140px 20px 0px;
     overflow: hidden;
     z-index: 1;
     display: block;
@@ -256,6 +256,7 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover,
     overflow: hidden;
     -o-text-overflow: ellipsis;
     text-overflow: ellipsis;
+    width: 50%;
 }
 
 
