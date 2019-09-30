@@ -2657,7 +2657,7 @@ td, th {
 }
 
 .unittag_ingles_somos_medio .bck-title-4 {
-    color: #ba5f30;
+    color: #ba5f30 !important;
 }
 
 .unittag_ingles_somos_medio #actividad .content .cke_contents .bck-ol-1 li:before, 
