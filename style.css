@@ -2707,6 +2707,11 @@ td, th {
     border-left: 30px solid #E0916B;
 }
 
+.unittag_ingles_somos_medio .bck-box.bck-box-2 .bck-content .bck-title-4 {
+    border: none;
+    background: transparent;
+}
+
 .unittag_ingles_somos_medio .bck-box.bck-box-2 .bck-content {
     border-bottom: 2px solid #e0916b;
     border-top: 5px solid #e0916b;
