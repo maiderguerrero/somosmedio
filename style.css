@@ -1314,6 +1314,7 @@ body:not(.edit) .slider-indicators {
 
 .bck-box.bck-box-3 {
     border: 2px solid #9D9EA2;
+    margin: auto;
 }
 
 
