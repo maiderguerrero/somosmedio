@@ -1360,6 +1360,7 @@ body:not(.edit) .slider-indicators {
 .bck-box.bck-box-4 {
     border: 2px solid #9D9EA2;
     margin: auto;
+    padding: 15px;
 }
 
 /*CAJA 5*/
