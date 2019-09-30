@@ -1937,6 +1937,8 @@ body:not(.edit) .slider-indicators {
 
 .item-container .icon-triangulo-rosa:before {
     background-image: url(images/triangulo_rosa.png);
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
 .item-container .icon-critical-gold:before {
