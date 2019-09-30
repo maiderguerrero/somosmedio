@@ -241,7 +241,7 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover,
     color: #fff;
     background: transparent;
     float: left;
-    font-size: 28px;
+    font-size: 20px;
     font-weight: 700;
     line-height: 34px;
     padding: 5px 20px;
