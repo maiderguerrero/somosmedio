@@ -2629,6 +2629,9 @@ td, th {
 
 .unittag_mates_somos_medio .bck-title-4 {
     color: #46802A !important;
+    background: transparent;
+    border: none;
+    border-left: none;
 }
 
 .unittag_mates_somos_medio #actividad .content .cke_contents .bck-ol-1 li:before, 
