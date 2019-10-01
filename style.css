@@ -1404,8 +1404,15 @@ body:not(.edit) .slider-indicators {
 /*CAJA 7*/
 
 .bck-box.bck-box-7 {
-   
+    border: 2px solid #A6A1CF;
+    margin: auto;
+    padding: 15px;
 }
+
+.bck-box.bck-box-7 .bck-content {
+    border: none;
+}
+
 
 .bck-box-7 .bck-title {
     
@@ -2681,6 +2688,10 @@ td, th {
     border-top: 2px solid #423C74;
     border-left: 2px solid #423C74;
     border-bottom: 2px solid #423C74;
+}
+
+.unittag_geografia_somos_medio .bck-box-1 .bck-box-7 .bck-content {
+    border: none;
 }
 
 .unittag_geografia_somos_medio .bck-title-1 {
