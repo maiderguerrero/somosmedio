@@ -1006,7 +1006,7 @@ body:not(.edit) .slider-indicators {
 }
 
 
-/*LISTA ORDENADA 1*/
+/*LISTA DESORDENADA 2*/
 
 
 #actividad .content .cke_contents .bck-ul-2,
@@ -1033,17 +1033,17 @@ body:not(.edit) .slider-indicators {
 #actividad .content .texto_curso .bck-ul-2 li:before,
 #actividad .popover-content .bck-ul-2 li:before,
 #actividad .content .workspace ul li .bck-ul-2 li:before {
-    content: counter(bck-li-counter);
-    font-weight: bold;
-    position: absolute;
-    text-align: center;
-    color: #fff;
-    font-size: 1.8rem;
-    width: 29px;
-    height: 23px;
-    margin-top: 0px;
-    left:-29px;
-    background: #A7003D;
+    height: 7px;
+    width: 7px;
+    background-color: #C55D9E;
+    color: #333;
+    border-radius: 0%;
+    margin-top: 10px;
+    -moz-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
 }
 
 /*LISTAS ORDENADAS*/
