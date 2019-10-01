@@ -851,8 +851,8 @@ body:not(.edit) .slider-indicators {
 /*Título 2*/
 
 .bck-title-2 {
-	font-weight: bold;
-	color: #636467;
+    font-weight: bold;
+    color: #636467;
 }
 
 
@@ -879,18 +879,20 @@ body:not(.edit) .slider-indicators {
 .bck-title-4 {
     font-weight: bold;
     font-size: 4.8rem;
- 	color: #A7013D;
- 	
+    color: #A7013D;
+    border: none;
+    background: transparent;
+    
 }
 
 /*Título 5*/
 
 .bck-title-5 {
     font-size: 1.8rem;
- 	color: #636466;
- 	border-top: 2px solid #C8DD69;
- 	width: fit-content;
- 	padding-top: 5px;
+    color: #636466;
+    border-top: 2px solid #C8DD69;
+    width: fit-content;
+    padding-top: 5px;
 }
 
 /*Énfasis*/
@@ -1268,7 +1270,7 @@ body:not(.edit) .slider-indicators {
 }
 
 .bck-box.bck-box-2 .bck-content .bck-title-4 {
-	font-weight: bold;
+    font-weight: bold;
     font-size: 2.4rem;
     color: #A7013D;
     border: none;
@@ -2553,18 +2555,18 @@ td, th {
 
 /*Tag Inglés*/
 .unittag_ingles_somos_medio .bck-box-1 .bck-title {
-	background-color: #BA5F30;	
+    background-color: #BA5F30;  
 }
 
 .unittag_ingles_somos_medio .bck-box-1 .bck-content {
-	border-top: 2px solid #BA5F30;
+    border-top: 2px solid #BA5F30;
     border-left: 2px solid #BA5F30;
     border-bottom: 2px solid #BA5F30;
 }
 
 .unittag_ingles_somos_medio .bck-title-1 {
-	color: #ba5f30;
-	border-bottom: 2px solid #ba5f30;
+    color: #ba5f30;
+    border-bottom: 2px solid #ba5f30;
 }
 
 .unittag_ingles_somos_medio .bck-title-4 {
@@ -2575,19 +2577,22 @@ td, th {
 .unittag_ingles_somos_medio #actividad .content .texto_curso .bck-ol-1 li:before, 
 .unittag_ingles_somos_medio #actividad .popover-content .bck-ol-1 li:before, 
 .unittag_ingles_somos_medio #actividad .content .workspace ul li .bck-ol-1 li:before {
-	    background: #ba5f30;
+        background: #ba5f30;
 }
 
 .unittag_ingles_somos_medio .bck-box.bck-box-2 .bck-title {
-	background: #ba5f30;
-	border: 5px solid #E0916B;
+    background: #ba5f30;
+    border: 5px solid #E0916B;
     border-left: 30px solid #E0916B;
 }
+
+/*
 
 .unittag_ingles_somos_medio .bck-box.bck-box-2 .bck-content .bck-title-4 {
     border: none;
     background: transparent;
 }
+*/
 
 .unittag_ingles_somos_medio .bck-box.bck-box-2 .bck-content {
     border-bottom: 2px solid #e0916b;
