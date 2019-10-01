@@ -2640,14 +2640,14 @@ td, th {
 
 .unittag_mates_somos_medio .bck-box.bck-box-2 .bck-title {
     background: #46802A;
-    border: 5px solid #E0916B;
-    border-left: 30px solid #E0916B;
+    border: 5px solid #94C274;
+    border-left: 30px solid #94C274;
 }
 
 
 .unittag_mates_somos_medio .bck-box.bck-box-2 .bck-content {
-    border-bottom: 2px solid #e0916b;
-    border-top: 5px solid #e0916b;
+    border-bottom: 2px solid #94C274;
+    border-top: 5px solid #94C274;
 }
 
 .unittag_mates_somos_medio .texto_curso ul li:before, 
@@ -2658,5 +2658,5 @@ td, th {
 .unittag_mates_somos_medio #actividad .workspace.multiple-choice .js-item ul li:before, 
 .unittag_mates_somos_medio #actividad .workspace.matching .box ul li:before, 
 .unittag_mates_somos_medio #actividad .workspace.ordenar .js-rank-item ul li:before {
-    background-color: #e0916b;
+    background-color: #94C274;
 }
