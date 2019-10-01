@@ -862,6 +862,7 @@ body:not(.edit) .slider-indicators {
     font-size: 1.6rem;
     border-top: 1px solid #808185;
     padding: 10px;
+    background: transparent;
 }
 
 
