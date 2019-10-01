@@ -2695,6 +2695,23 @@ td, th {
         background: #423C74;
 }
 
+
+.unittag_geografia_somos_medio #actividad .content .cke_contents .bck-ol-4 li,
+.unittag_geografia_somos_medio #actividad .content .cke_contents .bck-ol-4 li,
+.unittag_geografia_somos_medio #actividad .content .texto_curso .bck-ol-4 li,
+.unittag_geografia_somos_medio #actividad .popover-content .bck-ol-4 li,
+.unittag_geografia_somos_medio #actividad .content .workspace ul li .bck-ol-4 li {
+    color: #423C74;
+}
+
+.unittag_geografia_somos_medio #actividad .content .cke_contents .bck-ol-4 li:before,
+.unittag_geografia_somos_medio #actividad .content .texto_curso ol.bck-ol-4 li:before,
+.unittag_geografia_somos_medio #actividad .popover-content ol.bck-ol-4 li:before,
+.unittag_geografia_somos_medio #actividad .content .workspace ul li ol.bck-ol-4 li:before {
+    color: #423C74;
+}
+
+
 .unittag_geografia_somos_medio .bck-box.bck-box-2 .bck-title {
     background: #423C74;
     border: 5px solid #A6A1CF;
