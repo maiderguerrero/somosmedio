@@ -1521,26 +1521,35 @@ body:not(.edit) .slider-indicators {
 
 /*CAJA8*/
 
-.bck-box-8 .bck-title:before {
-   
-}
-
-.bck-box .bck-box-8 {
-    
-}
-
 .bck-box-8 .bck-title {
-    
+    background-color: #ffffff;
+    border-top: 2px solid #5CC4BD;
+    border-right: 2px solid #5CC4BD;
+    border-left: 2px solid #5CC4BD;
+    width: fit-content;
+    padding: 5px 10px 5px 40px;
+    font-weight: bold;
+    color: #46757E;
+    font-size: 18px;
+    text-align: left;
 }
 
-.bck-box-8 .bck-content {
-    text-align: center;
+ .bck-box-8 .bck-content {
+    position: relative;
+    border: 2px solid #5CC4BD;
+    background-color: #AFDEDB;
+    text-align: left;
 }
 
-.bck-box-8 {
-   
+.bck-box-8 .bck-title:before {
+    content: " ";
+    position: absolute;
+    left: 5px;
+    padding: 14px;
+    background-size: cover;
+    background-image: (images/before_retomar.png);
+    margin-top: -2px;
 }
-
 
 
 /*CAJA POP-UP*/
