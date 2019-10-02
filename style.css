@@ -884,6 +884,7 @@ body:not(.edit) .slider-indicators {
     color: #A7013D;
     border: none;
     background: transparent;
+    padding-left: 30px;
     
 }
 
