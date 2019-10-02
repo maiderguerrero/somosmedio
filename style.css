@@ -2812,7 +2812,9 @@ td, th {
     font-size: 1.6rem;
     border-top: 1px solid #808185;
     padding: 10px;
-    background: transparent;
+    background-color: transparent;
+    color: #333;
+    font-weight: 400;
 }
 
 .unittag_geografia_somos_medio .bck-title-4 {
@@ -2871,4 +2873,8 @@ td, th {
 .unittag_geografia_somos_medio #actividad .workspace.matching .box ul li:before, 
 .unittag_geografia_somos_medio #actividad .workspace.ordenar .js-rank-item ul li:before {
     background-color: #A6A1CF;
+}
+
+.unittag_geografia_somos_medio .bck-table-1 {
+    border: 1px solid #403C73;
 }
