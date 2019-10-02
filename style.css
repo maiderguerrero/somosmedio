@@ -995,9 +995,11 @@ body:not(.edit) .slider-indicators {
 
 /*LISTAS DESORDENADAS*/
 
+/*
 .texto_curso ul li {
    padding-left: 20px;
 }
+*/
 
 #actividad .texto_curso li,
 #actividad .workspace ul li li {
