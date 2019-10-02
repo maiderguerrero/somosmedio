@@ -1247,7 +1247,7 @@ body:not(.edit) .slider-indicators {
     background: transparent;
 }
 
-/*CAJA 5*/
+/*Lista 5*/
 
 #actividad .content .cke_contents .bck-ol-5,
 #actividad .content .texto_curso .bck-ol-5,
@@ -1547,7 +1547,7 @@ body:not(.edit) .slider-indicators {
     left: 5px;
     padding: 14px;
     background-size: cover;
-    background-image: (images/before_retomar.png);
+    background-image: url(images/before_retomar.png);
     margin-top: -2px;
 }
 
