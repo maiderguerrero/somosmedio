@@ -1005,6 +1005,7 @@ body:not(.edit) .slider-indicators {
 #actividad .workspace ul li li {
     position: relative;
     margin-bottom: 5px;
+    padding-left: 50px;
 }
 
 #actividad .texto_curso li:last-of-type,
