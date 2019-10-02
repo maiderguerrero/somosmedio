@@ -1002,12 +1002,12 @@ body:not(.edit) .slider-indicators {
 #actividad .texto_curso li,
 #actividad .workspace ul li li {
     position: relative;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 
 #actividad .texto_curso li:last-of-type,
 #actividad .workspace ul li li:last-of-type {
-    margin-bottom: 0px;
+    margin-bottom: 5px;
 }
 
 #actividad .content ul.bck-ul li {
