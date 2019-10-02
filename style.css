@@ -2821,6 +2821,11 @@ td, th {
     color: #423C74 !important;
 }
 
+.unittag_geografia_somos_medio .bck-box.bck-box-2 .bck-content .bck-title-4 {
+    border: none;
+    background: transparent;
+}
+
 .unittag_geografia_somos_medio #actividad .content .cke_contents .bck-ol-1 li:before, 
 .unittag_geografia_somos_medio #actividad .content .texto_curso .bck-ol-1 li:before, 
 .unittag_geografia_somos_medio #actividad .popover-content .bck-ol-1 li:before, 
@@ -2876,5 +2881,16 @@ td, th {
 }
 
 .unittag_geografia_somos_medio .bck-table-1 {
+    border: 1px solid #403C73;
+}
+
+.unittag_geografia_somos_medio table td.bck-td-3 {
+    background-color: #A6A1CF;
+    border: 1px solid #403C73;
+    font-weight: bold;
+    color: #fff;
+}
+
+.unittag_geografia_somos_medio table td.bck-td-2 {
     border: 1px solid #403C73;
 }
