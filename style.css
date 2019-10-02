@@ -2826,6 +2826,18 @@ td, th {
     background: transparent;
 }
 
+.unittag_geografia_somos_medio .bck-box-8 .bck-title {
+    border-top: 2px solid #A6A1CF;
+    border-right: 2px solid #A6A1CF;
+    border-left: 2px solid #A6A1CF;
+    color: #403C73;
+}
+
+.unittag_geografia_somos_medio .bck-box-8 .bck-content {
+    border: 2px solid #A6A1CF;
+    background-color: #CCC9E4;
+}
+
 .unittag_geografia_somos_medio #actividad .content .cke_contents .bck-ol-1 li:before, 
 .unittag_geografia_somos_medio #actividad .content .texto_curso .bck-ol-1 li:before, 
 .unittag_geografia_somos_medio #actividad .popover-content .bck-ol-1 li:before, 
