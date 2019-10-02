@@ -2990,19 +2990,15 @@ td, th {
     background: transparent;
 }
 
-.unittag_biologia_somos_medio .bck-box.bck-box-3 .bck-content {
-    background: #D8EDDE;
-}
-
 .unittag_biologia_somos_medio .bck-box-8 .bck-title {
-    border-top: 2px solid #A6A1CF;
-    border-right: 2px solid #A6A1CF;
-    border-left: 2px solid #A6A1CF;
+    border-top: 2px solid #81ca9c;
+    border-right: 2px solid #81ca9c;
+    border-left: 2px solid #81ca9c;
     color: #403C73;
 }
 
 .unittag_biologia_somos_medio .bck-box-8 .bck-content {
-    border: 2px solid #A6A1CF;
+    border: 2px solid #81ca9c;
     background-color: #C1E2CA;
 }
 
@@ -3034,19 +3030,19 @@ td, th {
 .unittag_biologia_somos_medio #actividad .content .texto_curso .bck-ul-2 li:before,
 .unittag_biologia_somos_medio #actividad .popover-content .bck-ul-2 li:before,
 .unittag_biologia_somos_medio #actividad .content .workspace ul li .bck-ul-2 li:before {
-    background-color:#81CA9C;
+    background-color: #81CA9C;
 }
 
 .unittag_biologia_somos_medio .bck-box.bck-box-2 .bck-title {
     background: #006645;
-    border: 5px solid #A6A1CF;
-    border-left: 30px solid #A6A1CF;
+    border: 5px solid #81ca9c;
+    border-left: 30px solid #81ca9c;
 }
 
 
 .unittag_biologia_somos_medio .bck-box.bck-box-2 .bck-content {
-    border-bottom: 2px solid #A6A1CF;
-    border-top: 5px solid #A6A1CF;
+    border-bottom: 2px solid #81ca9c;
+    border-top: 5px solid #81ca9c;
 }
 
 .unittag_biologia_somos_medio .texto_curso ul li:before, 
@@ -3057,7 +3053,7 @@ td, th {
 .unittag_biologia_somos_medio #actividad .workspace.multiple-choice .js-item ul li:before, 
 .unittag_biologia_somos_medio #actividad .workspace.matching .box ul li:before, 
 .unittag_biologia_somos_medio #actividad .workspace.ordenar .js-rank-item ul li:before {
-    background-color: #A6A1CF;
+    background-color: #81ca9c;
 }
 
 .unittag_biologia_somos_medio .bck-table-1 {
@@ -3065,7 +3061,7 @@ td, th {
 }
 
 .unittag_biologia_somos_medio table td.bck-td-3 {
-    background-color: #A6A1CF;
+    background-color: #81ca9c;
     border: 1px solid #403C73;
     font-weight: bold;
     color: #fff;
