@@ -1254,6 +1254,7 @@ body:not(.edit) .slider-indicators {
     color: #45812B;
     font-weight: 600;
     font-size: 2.5rem;
+    margin-left: -15px;
 }
 
 #actividad .content .cke_contents .bck-ol-4 li:before,
@@ -1270,7 +1271,7 @@ body:not(.edit) .slider-indicators {
     width: 29px;
     height: 23px;
     margin-top: 0px;
-    left: -29px;
+    left: -20px;
     background: transparent;
 }
 
