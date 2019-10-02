@@ -913,7 +913,9 @@ body:not(.edit) .slider-indicators {
     background: #818285;
     padding: 0px 15px;
     margin-right: 10px;
-    border-top: 2px solid #C8DD69; 
+    border-left: 20px solid #C8DD69;
+    border-top: 5px solid #C8DD69;
+    border-bottom: 3px solid #C8DD69;
 }
 
 
