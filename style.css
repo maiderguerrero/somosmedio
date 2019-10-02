@@ -1056,8 +1056,8 @@ body:not(.edit) .slider-indicators {
 #actividad .content .texto_curso .bck-ul-2 li:before,
 #actividad .popover-content .bck-ul-2 li:before,
 #actividad .content .workspace ul li .bck-ul-2 li:before {
-    height: 7px;
-    width: 7px;
+    height: 6px;
+    width: 6px;
     background-color: #C55D9E;
     color: #333;
     border-radius: 0%;
@@ -1548,6 +1548,7 @@ body:not(.edit) .slider-indicators {
     padding: 14px;
     background-size: cover;
     background-image: url(images/before_retomar.png);
+    background-repeat: no-repeat;
     margin-top: -2px;
 }
 
@@ -2805,6 +2806,13 @@ td, th {
     border-bottom: 2px solid #423C74;
 }
 
+.unittag_geografia_somos_medio .bck-title-3 {
+    font-size: 1.6rem;
+    border-top: 1px solid #808185;
+    padding: 10px;
+    background: transparent;
+}
+
 .unittag_geografia_somos_medio .bck-title-4 {
     color: #423C74 !important;
 }
@@ -2832,6 +2840,13 @@ td, th {
     color: #423C74;
 }
 
+
+.unittag_geografia_somos_medio #actividad .content .cke_contents .bck-ul-2 li:before,
+.unittag_geografia_somos_medio #actividad .content .texto_curso .bck-ul-2 li:before,
+.unittag_geografia_somos_medio #actividad .popover-content .bck-ul-2 li:before,
+.unittag_geografia_somos_medio #actividad .content .workspace ul li .bck-ul-2 li:before {
+    background-color: #A6A1CF;
+}
 
 .unittag_geografia_somos_medio .bck-box.bck-box-2 .bck-title {
     background: #423C74;
