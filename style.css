@@ -1476,12 +1476,12 @@ figure.bck-img2-figure.bck-i-fullscreen.bck-i-fullscreen-enabled {
 }
 
 .bck-box .bck-box-1:after {
+    content: " ";
     background-color: #A7013D;
     width: 1px;
     padding: 4px;
     position: absolute;
     margin-top: -9px;
-    content: " ";
     right: 0;
 }
 
