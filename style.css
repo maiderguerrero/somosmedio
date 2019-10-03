@@ -2846,6 +2846,10 @@ td, th {
     background-color: #BA5F30;  
 }
 
+.unittag_ingles_somos_medio .bck-box.bck-box-1:after {
+    background-color: #BA5F30;
+}
+
 .unittag_ingles_somos_medio .bck-box-1 .bck-content {
     border-top: 2px solid #BA5F30;
     border-left: 2px solid #BA5F30;
@@ -2866,6 +2870,10 @@ td, th {
 .unittag_ingles_somos_medio #actividad .popover-content .bck-ol-1 li:before, 
 .unittag_ingles_somos_medio #actividad .content .workspace ul li .bck-ol-1 li:before {
         background: #ba5f30;
+}
+
+.unittag_ingles_somos_medio .bck-box.bck-box-2:after {
+    background-color:  #E0916B;
 }
 
 .unittag_ingles_somos_medio .bck-box.bck-box-2 .bck-title {
@@ -2908,6 +2916,10 @@ td, th {
     border-bottom: 2px solid #46802A;
 }
 
+.unittag_mates_somos_medio .bck-box.bck-box-1:after  {
+    background-color: #46802A;  
+}
+
 .unittag_mates_somos_medio .bck-title-1 {
     color: #46802A;
     border-bottom: 2px solid #46802A;
@@ -2939,6 +2951,9 @@ td, th {
     border-left: 30px solid #94C274;
 }
 
+.unittag_mates_somos_medio .bck-box.bck-box-2:after {
+    background-color: #94C274;
+}
 
 .unittag_mates_somos_medio .bck-box.bck-box-2 .bck-content {
     border-bottom: 2px solid #94C274;
@@ -2965,6 +2980,10 @@ td, th {
     border-top: 2px solid #423C74;
     border-left: 2px solid #423C74;
     border-bottom: 2px solid #423C74;
+}
+
+.unittag_geografia_somos_medio .bck-box.bck-box-1:after {
+    background-color: #423C74;  
 }
 
 .unittag_geografia_somos_medio .bck-box-1 .bck-box-7 .bck-content {
@@ -3054,6 +3073,9 @@ td, th {
     border-left: 30px solid #A6A1CF;
 }
 
+.unittag_geografia_somos_medio .bck-box.bck-box-2:after {
+    background-color: #A6A1CF;
+}
 
 .unittag_geografia_somos_medio .bck-box.bck-box-2 .bck-content {
     border-bottom: 2px solid #A6A1CF;
@@ -3096,6 +3118,10 @@ td, th {
     border-top: 2px solid #006645;
     border-left: 2px solid #006645;
     border-bottom: 2px solid #006645;
+}
+
+.unittag_biologia_somos_medio .bck-box.bck-box-1:after {
+    background-color: #006645;  
 }
 
 .unittag_biologia_somos_medio .bck-box-1 .bck-box-7 .bck-content {
@@ -3190,6 +3216,9 @@ td, th {
     border-left: 30px solid #81ca9c;
 }
 
+.unittag_biologia_somos_medio .bck-box.bck-box-2:after {
+    background-color: #81ca9c;
+}
 
 .unittag_biologia_somos_medio .bck-box.bck-box-2 .bck-content {
     border-bottom: 2px solid #81ca9c;
@@ -3235,6 +3264,10 @@ td, th {
     border-top: 2px solid #0082A2;
     border-left: 2px solid #0082A2;
     border-bottom: 2px solid #0082A2;
+}
+
+.unittag_quimica_somos_medio .bck-box.bck-box-1:after {
+    background-color: #0082A2;  
 }
 
 .unittag_quimica_somos_medio .bck-box-1 .bck-box-7 .bck-content {
@@ -3329,6 +3362,9 @@ td, th {
     border-left: 30px solid #5EB6D4;
 }
 
+.unittag_quimica_somos_medio .bck-box.bck-box-2:after {
+    background-color: #5EB6D4;
+}
 
 .unittag_quimica_somos_medio .bck-box.bck-box-2 .bck-content {
     border-bottom: 2px solid #5EB6D4;
@@ -3377,6 +3413,10 @@ td, th {
    border-bottom: 2px solid #45767E;
 }
 
+.unittag_historia_somos_medio .bck-box.bck-box-1:after {
+   background-color: #45767E;  
+}
+
 .unittag_historia_somos_medio .bck-title-1 {
    color: #45767E;
    border-bottom: 2px solid #45767E;
@@ -3408,6 +3448,9 @@ td, th {
    border-left: 30px solid #5CC4BD;
 }
 
+.unittag_historia_somos_medio .bck-box.bck-box-2:after {
+    background-color: #5CC4BD;
+}
 
 .unittag_historia_somos_medio .bck-box.bck-box-2 .bck-content {
    border-bottom: 2px solid #5CC4BD;
@@ -3461,6 +3504,10 @@ td, th {
    border-bottom: 2px solid #610053;
 }
 
+.unittag_fisica_somos_medio .bck-box.bck-box-1:after {
+   background-color: #610053;  
+}
+
 .unittag_fisica_somos_medio .bck-title-1 {
    color: #610053;
    border-bottom: 2px solid #610053;
@@ -3492,6 +3539,9 @@ td, th {
    border-left: 30px solid #C78EBF;
 }
 
+.unittag_fisica_somos_medio .bck-box.bck-box-2:after {
+    background-color: #C78EBF;
+}
 
 .unittag_fisica_somos_medio .bck-box.bck-box-2 .bck-content {
    border-bottom: 2px solid #C78EBF;
