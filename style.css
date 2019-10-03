@@ -1688,6 +1688,16 @@ figure.bck-img2-figure.bck-i-fullscreen.bck-i-fullscreen-enabled {
     font-size: 2.3rem;
 }
 
+.bck-box-9:after {
+    background-color: #C8DD69;
+    width: 100%;
+    padding: 2px;
+    position: absolute;
+    margin-top: 0px;
+    content: " ";
+    left: 0;
+}
+
 /*CAJA POP-UP*/
 
 .info-popover .popover-title:before, .popover-template .popover-title:before {
