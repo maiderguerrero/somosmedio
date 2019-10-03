@@ -1475,7 +1475,7 @@ figure.bck-img2-figure.bck-i-fullscreen.bck-i-fullscreen-enabled {
     margin-top: 20px;
 }
 
-.bck-box .bck-box-1:after {
+.bck-box.bck-box-1:after {
     content: " ";
     background-color: #A7013D;
     width: 1px;
