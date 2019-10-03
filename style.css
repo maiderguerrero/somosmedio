@@ -1075,11 +1075,11 @@ figure.bck-img2-figure.bck-i-fullscreen.bck-i-fullscreen-enabled {
 
 #actividad .content .cke_contents .bck-ul-3 li,
 #actividad .content .cke_contents .bck-ul-3 li,
-#actividad .content .texto_curso .bck-ul-2 li,
+#actividad .content .texto_curso .bck-ul-3 li,
 #actividad .popover-content .bck-ul-3 li,
 #actividad .content .workspace ul li .bck-ul-3 li {
     counter-increment: bck-li-counter;
-    padding-left: 70px;
+    padding-left: 40px;
     position: relative;
     z-index: 0;
 }
