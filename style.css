@@ -849,8 +849,12 @@ figure.bck-img2-figure.bck-i-fullscreen.bck-i-fullscreen-enabled {
     color: #A7013D;
     border: none;
     background: transparent;
-    padding-left: 30px;
     
+    
+}
+
+.bck-box-2 .bck-title-4 {
+    padding-left: 30px;
 }
 
 /*Título 5*/
