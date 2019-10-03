@@ -3174,6 +3174,148 @@ td, th {
     border: 1px solid #403C73;
 }
 
+.unittag_biologia_somos_medio .bck-enfasis-5 {
+    color: #82CA9B;
+}
+
+/*-------------------TAG QUIMICA---------------------------*/
+.unittag_quimica_somos_medio .bck-box-1 .bck-title {
+    background-color: #0082A2;  
+}
+
+.unittag_quimica_somos_medio .bck-box-1 .bck-content {
+    border-top: 2px solid #0082A2;
+    border-left: 2px solid #0082A2;
+    border-bottom: 2px solid #0082A2;
+}
+
+.unittag_quimica_somos_medio .bck-box-1 .bck-box-7 .bck-content {
+    border: none;
+}
+
+.unittag_quimica_somos_medio .bck-title-1 {
+    color: #0082A2;
+    border-bottom: 2px solid #0082A2;
+}
+
+.unittag_quimica_somos_medio .bck-box-1 .bck-title-3 {
+    font-size: 1.6rem;
+    border-top: 1px solid #808185;
+    padding: 10px;
+    background-color: transparent;
+    color: #333;
+    font-weight: 400;
+}
+
+.unittag_quimica_somos_medio .bck-box-1 .bck-title-7 {
+    font-size: 1.6rem;
+    border-bottom: 1px solid #808185;
+    border-left: 1px solid #808185;
+    border-top: none;
+    padding: 10px;
+    background-color: transparent;
+    color: #333;
+    font-weight: 400;
+}
+
+.unittag_quimica_somos_medio .bck-title-4 {
+    color: #0082A2 !important;
+}
+
+.unittag_quimica_somos_medio .bck-box.bck-box-2 .bck-content .bck-title-4 {
+    border: none;
+    background: transparent;
+}
+
+.unittag_quimica_somos_medio .bck-box-1 .bck-box-3 .bck-content {
+    border: none;
+}
+
+
+.unittag_quimica_somos_medio .bck-box-8 .bck-title {
+    border-top: 2px solid #5EB6D4;
+    border-right: 2px solid #5EB6D4;
+    border-left: 2px solid #5EB6D4;
+    color: #403C73;
+}
+
+.unittag_quimica_somos_medio .bck-box-8 .bck-content {
+    border: 2px solid #5EB6D4;
+    background-color: #ABD5E8;
+}
+
+.unittag_quimica_somos_medio #actividad .content .cke_contents .bck-ol-1 li:before, 
+.unittag_quimica_somos_medio #actividad .content .texto_curso .bck-ol-1 li:before, 
+.unittag_quimica_somos_medio #actividad .popover-content .bck-ol-1 li:before, 
+.unittag_quimica_somos_medio #actividad .content .workspace ul li .bck-ol-1 li:before {
+        background: #0082A2;
+}
+
+
+.unittag_quimica_somos_medio #actividad .content .cke_contents .bck-ol-4 li,
+.unittag_quimica_somos_medio #actividad .content .cke_contents .bck-ol-4 li,
+.unittag_quimica_somos_medio #actividad .content .texto_curso .bck-ol-4 li,
+.unittag_quimica_somos_medio #actividad .popover-content .bck-ol-4 li,
+.unittag_quimica_somos_medio #actividad .content .workspace ul li .bck-ol-4 li {
+    color: #0082A2;
+}
+
+.unittag_quimica_somos_medio #actividad .content .cke_contents .bck-ol-4 li:before,
+.unittag_quimica_somos_medio #actividad .content .texto_curso ol.bck-ol-4 li:before,
+.unittag_quimica_somos_medio #actividad .popover-content ol.bck-ol-4 li:before,
+.unittag_quimica_somos_medio #actividad .content .workspace ul li ol.bck-ol-4 li:before {
+    color: #0082A2;
+}
+
+
+.unittag_quimica_somos_medio #actividad .content .cke_contents .bck-ul-2 li:before,
+.unittag_quimica_somos_medio #actividad .content .texto_curso .bck-ul-2 li:before,
+.unittag_quimica_somos_medio #actividad .popover-content .bck-ul-2 li:before,
+.unittag_quimica_somos_medio #actividad .content .workspace ul li .bck-ul-2 li:before {
+    background-color: #5EB6D4;
+}
+
+.unittag_quimica_somos_medio .bck-box.bck-box-2 .bck-title {
+    background: #0082A2;
+    border: 5px solid #5EB6D4;
+    border-left: 30px solid #5EB6D4;
+}
+
+
+.unittag_quimica_somos_medio .bck-box.bck-box-2 .bck-content {
+    border-bottom: 2px solid #5EB6D4;
+    border-top: 5px solid #5EB6D4;
+}
+
+.unittag_quimica_somos_medio .texto_curso ul li:before, 
+.unittag_quimica_somos_medio .workspace ul li ul li:before, 
+.unittag_quimica_somos_medio .cke_contents ul li:before, 
+.unittag_quimica_somos_medio .preview ul li:before, 
+.unittag_quimica_somos_medio .classify-item ul li:before, 
+.unittag_quimica_somos_medio #actividad .workspace.multiple-choice .js-item ul li:before, 
+.unittag_quimica_somos_medio #actividad .workspace.matching .box ul li:before, 
+.unittag_quimica_somos_medio #actividad .workspace.ordenar .js-rank-item ul li:before {
+    background-color: #5EB6D4;
+}
+
+.unittag_quimica_somos_medio .bck-table-1 {
+    border: 1px solid #403C73;
+}
+
+.unittag_quimica_somos_medio table td.bck-td-3 {
+    background-color: #5EB6D4;
+    border: 1px solid #403C73;
+    font-weight: bold;
+    color: #fff;
+}
+
+.unittag_quimica_somos_medio table td.bck-td-2 {
+    border: 1px solid #403C73;
+}
+
+.unittag_quimica_somos_medio .bck-enfasis-5 {
+    color: #82CA9B;
+}
 
 /*------------------------------------TAG HISTORIA------------------------------------------------------*/
 
