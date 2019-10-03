@@ -1693,7 +1693,7 @@ figure.bck-img2-figure.bck-i-fullscreen.bck-i-fullscreen-enabled {
     width: 100%;
     padding: 2px;
     position: absolute;
-    margin-top: 0px;
+    margin-top: -2px;
     content: " ";
     left: 0;
 }
