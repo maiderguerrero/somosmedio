@@ -1689,9 +1689,9 @@ figure.bck-img2-figure.bck-i-fullscreen.bck-i-fullscreen-enabled {
 
 
 /*CAJA 9*/
-.bck-box-9 .bck-title {
-    border-top: 0px;
-    border-bottom: 3px solid #C8DD69;
+.bck-box-9 {
+    border-top: 3px solid #C8DD69;
+    border-bottom: 4px solid #C8DD69;
 }
 
 .bck-box-9 .bck-content {
@@ -1707,15 +1707,6 @@ figure.bck-img2-figure.bck-i-fullscreen.bck-i-fullscreen-enabled {
     font-size: 2.3rem;
 }
 
-.bck-box-9:after {
-    background-color: #C8DD69;
-    width: 100%;
-    padding: 2px;
-    position: absolute;
-    margin-top: -2px;
-    content: " ";
-    left: 0;
-}
 
 /*CAJA POP-UP*/
 
