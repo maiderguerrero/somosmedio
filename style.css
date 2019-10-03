@@ -1,58 +1,20 @@
 
 
+
 /* Fonts */
 
     @font-face {
-      font-family: Campton;
-      font-weight: 100;
-      src: url('fonts/Campton-Light.otf');
+ 
     }
 
-    @font-face {
-      font-family: Campton;
-      font-weight: bold;
-      src: url('fonts/Campton-Bold.otf');
-
-    }
     
-    @font-face {
-      font-family: Campton;
-      font-weight: normal;
-      src: url(fonts/Campton-Book.otf);
-    }
-
-@font-face {
-      font-family: Campton light;
-      font-weight: 100;
-      src: url('fonts/Campton-Light.otf');
-    }
 
 
 b, strong {
     font-weight: bold;
 }
 
-@font-face {
-    font-family: 'Conv_marydale';
-    src: url('fonts/marydale.eot');
-    src: local('☺'), 
-    url('fonts/marydale.woff') format('woff'), 
-    url('fonts/marydale.ttf') format('truetype'), 
-    url('fonts/marydale.svg') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
 
-@font-face {
-    font-family: 'Conv_Stag-Light';
-    src: url('fonts/Stag-Light.eot');
-    src: local('☺'), 
-    url('fonts/Stag-Light.woff') format('woff'), 
-    url('fonts/Stag-Light.ttf') format('truetype'), 
-    url('fonts/Stag-Light.svg') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
 
 /*TOC*/
 #indice .units ul li.active:not(.disabled), #indice .units ul li:focus:not(.disabled) {
@@ -280,15 +242,7 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover,
     background: #31A2C7;
 }
 
-/*
 
-#indice .units ul li.hover:not(.disabled),
-body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
-#indice .units ul li:hover:not(.disabled) {
-    background: #31a2c775;
-}
-
-*/
 
 body:not(.isTablet) #indice .units ul li:not(.disabled) a:hover .title, 
 body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
@@ -644,11 +598,22 @@ body:not(.edit) .slider-indicators {
 
 /* CKEDITOR */
 #actividad .content img {
-    margin-top: 10px;
-    -webkit-border-radius: 5px;
-       -moz-border-radius: 5px;
-            border-radius: 5px;
+    margin-top: 0px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
 }
+
+figure.bck-img2-figure.bck-i-fullscreen.bck-i-fullscreen-enabled {
+    padding: 0px;
+    margin: 0px;
+}
+
+.bck-i-fullscreen-wrapper {
+    padding: 0px;
+}
+
+
 
 /* ACTIVITIES */
 
@@ -721,7 +686,7 @@ body:not(.edit) .slider-indicators {
 }
 
 .bck-i-fullscreen figcaption {
-    margin-top: -20px;
+    margin-top: 0px;
     border-bottom: 0;
     -webkit-border-radius: 0px;
        -moz-border-radius: 0px;
@@ -967,7 +932,8 @@ body:not(.edit) .slider-indicators {
     font-weight: bold;
     color: #fff;
     padding: 0px 10px;
- }
+    margin-right: 3px;
+}
 
  .bck-enfasis-5 {
     color: #E0916B;
@@ -975,7 +941,8 @@ body:not(.edit) .slider-indicators {
 
 .bck-enfasis-6 {
     font-weight: bold;
-    color: #DBBC00;
+    color: #610053;
+    font-size: 21px;
 }
 
 .bck-enfasis-7 {
@@ -2055,6 +2022,12 @@ body:not(.edit) .slider-indicators {
 /**/
 
 /**TABLA 1**/
+
+table {
+    margin-bottom: 15px;
+}
+
+
 .bck-table-1 {
     border: 1px solid #A7013D;
 }
@@ -3060,4 +3033,195 @@ td, th {
 
 .unittag_biologia_somos_medio table td.bck-td-2 {
     border: 1px solid #403C73;
+}
+
+
+/*------------------------------------TAG HISTORIA------------------------------------------------------*/
+
+.unittag_historia_somos_medio .bck-box-1 .bck-title {
+   background-color: #45767E;  
+}
+
+.unittag_historia_somos_medio .bck-box-1 .bck-content {
+   border-top: 2px solid #45767E;
+   border-left: 2px solid #45767E;
+   border-bottom: 2px solid #45767E;
+}
+
+.unittag_historia_somos_medio .bck-title-1 {
+   color: #45767E;
+   border-bottom: 2px solid #45767E;
+}
+
+.unittag_historia_somos_medio .bck-box.bck-box-2 .bck-content .bck-title-4 {
+   border: none;
+   background: transparent;
+}
+
+
+.unittag_historia_somos_medio .bck-title-4 {
+   color: #45767E !important;
+   background: transparent;
+   border: none;
+   border-left: none;
+}
+
+.unittag_historia_somos_medio #actividad .content .cke_contents .bck-ol-1 li:before,
+.unittag_historia_somos_medio #actividad .content .texto_curso .bck-ol-1 li:before,
+.unittag_historia_somos_medio #actividad .popover-content .bck-ol-1 li:before,
+.unittag_historia_somos_medio #actividad .content .workspace ul li .bck-ol-1 li:before {
+       background: #45767E;
+}
+
+.unittag_historia_somos_medio .bck-box.bck-box-2 .bck-title {
+   background: #45767E;
+   border: 5px solid #5CC4BD;
+   border-left: 30px solid #5CC4BD;
+}
+
+
+.unittag_historia_somos_medio .bck-box.bck-box-2 .bck-content {
+   border-bottom: 2px solid #5CC4BD;
+   border-top: 5px solid #5CC4BD;
+}
+
+.unittag_historia_somos_medio .texto_curso ul li:before,
+.unittag_historia_somos_medio .workspace ul li ul li:before,
+.unittag_historia_somos_medio .cke_contents ul li:before,
+.unittag_historia_somos_medio .preview ul li:before,
+.unittag_historia_somos_medio .classify-item ul li:before,
+.unittag_historia_somos_medio #actividad .workspace.multiple-choice .js-item ul li:before,
+.unittag_historia_somos_medio #actividad .workspace.matching .box ul li:before,
+.unittag_historia_somos_medio #actividad .workspace.ordenar .js-rank-item ul li:before {
+   background-color: #5CC4BD;
+}
+
+.unittag_historia_somos_medio .bck-box-1 .bck-title-3 {
+    font-size: 1.6rem;
+    border-top: 1px solid #808185;
+    padding: 10px;
+    color: #211915;
+    font-size: 16px;
+    font-weight: normal;
+    background: transparent;
+    padding: 10px;
+    width: 100%;
+}
+
+.unittag_historia_somos_medio .bck-box-1 .bck-box-6 .bck-title {
+    background-color: #5AC5BE;
+    border-top: 0px;
+}
+
+.unittag_historia_somos_medio .bck-box-1 .bck-box-6 .bck-content {
+    border: 2px solid #5AC5BE;
+    margin-top: 0px;
+    padding: 0px;
+}
+
+/*------------------------------------TAG FÍSICA------------------------------------------------------*/
+
+
+.unittag_fisica_somos_medio .bck-box-1 .bck-title {
+   background-color: #610053;  
+}
+
+.unittag_fisica_somos_medio .bck-box-1 .bck-content {
+   border-top: 2px solid #610053;
+   border-left: 2px solid #610053;
+   border-bottom: 2px solid #610053;
+}
+
+.unittag_fisica_somos_medio .bck-title-1 {
+   color: #610053;
+   border-bottom: 2px solid #610053;
+}
+
+.unittag_fisica_somos_medio .bck-box.bck-box-2 .bck-content .bck-title-4 {
+   border: none;
+   background: transparent;
+}
+
+
+.unittag_fisica_somos_medio .bck-title-4 {
+   color: #610053 !important;
+   background: transparent;
+   border: none;
+   border-left: none;
+}
+
+.unittag_fisica_somos_medio #actividad .content .cke_contents .bck-ol-1 li:before,
+.unittag_fisica_somos_medio #actividad .content .texto_curso .bck-ol-1 li:before,
+.unittag_fisica_somos_medio #actividad .popover-content .bck-ol-1 li:before,
+.unittag_fisica_somos_medio #actividad .content .workspace ul li .bck-ol-1 li:before {
+       background: #610053;
+}
+
+.unittag_fisica_somos_medio .bck-box.bck-box-2 .bck-title {
+   background: #610053;
+   border: 5px solid #C78EBF;
+   border-left: 30px solid #C78EBF;
+}
+
+
+.unittag_fisica_somos_medio .bck-box.bck-box-2 .bck-content {
+   border-bottom: 2px solid #C78EBF;
+   border-top: 5px solid #C78EBF;
+}
+
+.unittag_fisica_somos_medio .texto_curso ul li:before,
+.unittag_fisica_somos_medio .workspace ul li ul li:before,
+.unittag_fisica_somos_medio .cke_contents ul li:before,
+.unittag_fisica_somos_medio .preview ul li:before,
+.unittag_fisica_somos_medio .classify-item ul li:before,
+.unittag_fisica_somos_medio #actividad .workspace.multiple-choice .js-item ul li:before,
+.unittag_fisica_somos_medio #actividad .workspace.matching .box ul li:before,
+.unittag_fisica_somos_medio #actividad .workspace.ordenar .js-rank-item ul li:before {
+   background-color: #C78EBF;
+}
+
+.unittag_fisica_somos_medio #actividad .content .cke_contents .bck-ol-4 li,
+.unittag_fisica_somos_medio #actividad .content .cke_contents .bck-ol-4 li,
+.unittag_fisica_somos_medio #actividad .content .texto_curso .bck-ol-4 li, 
+.unittag_fisica_somos_medio #actividad .popover-content .bck-ol-4 li, 
+.unittag_fisica_somos_medio #actividad .content .workspace ul li .bck-ol-4 li {
+    color: #610053;
+}
+
+
+.unittag_fisica_somos_medio #actividad .content .cke_contents .bck-ol-4 li:before,
+.unittag_fisica_somos_medio #actividad .content .texto_curso ol.bck-ol-4 li:before,
+.unittag_fisica_somos_medio #actividad .popover-content ol.bck-ol-4 li:before,
+.unittag_fisica_somos_medio #actividad .content .workspace ul li ol.bck-ol-4 li:before {
+   color: #610053;
+}
+
+
+.unittag_fisica_somos_medio table td.bck-td-1 {
+    color: #fff;
+    font-weight: bold;
+    background-color: #C78EBF;
+    text-align: center;
+    border: 1px solid #610053;
+}
+
+.unittag_fisica_somos_medio table td.bck-td-2 {
+    background-color: #fff;
+    border: 1px solid #610053;
+}
+
+.unittag_fisica_somos_medio table td.bck-td-3 {
+    background-color: #D3A8CE;
+    color: #fff;
+    font-weight: bold;
+    border: 1px solid #610053;
+}
+
+.unittag_fisica_somos_medio .bck-box-1 .bck-title-3 {
+    font-size: 1.6rem;
+    border-top: 1px solid #808185;
+    padding: 10px;
+    background-color: transparent;
+    color: #333;
+    font-weight: 400;
 }
