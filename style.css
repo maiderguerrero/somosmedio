@@ -2255,6 +2255,11 @@ td, th {
     background-color: white;
 }
 
+#actividad .workspace.multiple-choice .opcion>ol, 
+#actividad .workspace.multiple-choice .opcion>ul {
+    margin-left: 0;
+}
+
 .cke_reset {
     background: white;
 }
