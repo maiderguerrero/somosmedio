@@ -2272,9 +2272,10 @@ td, th {
     background-color: #428bcac9;
 }
 
-.btn-primary, .btn-primary.disabled, .btn-primary.disabled:focus {
-    background-color: #31A2C7;
+.btn-primary, .btn-primary.disabled {
+    background-color: #C8DD69;
     border-radius: 0;
+    color: #818285;
 }
 
 
