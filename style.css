@@ -2858,7 +2858,7 @@ td, th {
     }
 
     .bck-box.bck-box-2 .bck-title {
-        border-left: 15px solid;
+        border-left-width: 15px;
         font-size: 1.7rem;
         padding: 5px 20px;
     }
