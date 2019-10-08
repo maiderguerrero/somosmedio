@@ -18,7 +18,7 @@ b, strong {
 
 /*TOC*/
 
-#indice .units ul li.active:not(.disabled), 
+/*#indice .units ul li.active:not(.disabled),*/ 
 #indice .units ul li:focus:not(.disabled) {
     background-color: #818285;
 }
