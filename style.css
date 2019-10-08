@@ -3691,7 +3691,17 @@ td, th {
 
 }
 
+#list-units .unittag_lengua_somos_medio:active {
+    background: #C55D9E !important;
+
+}
+
 #list-units .unittag_ingles_somos_medio:hover {
+    background: #e0916b !important;
+
+}
+
+#list-units .unittag_ingles_somos_medio:active {
     background: #e0916b !important;
 
 }
@@ -3701,7 +3711,17 @@ td, th {
 
 }
 
+#list-units .unittag_mates_somos_medio:active {
+    background: #94C274 !important;
+
+}
+
 #list-units .unittag_historia_somos_medio:hover {
+    background: #5CC4BD !important;
+
+}
+
+#list-units .unittag_historia_somos_medio:active {
     background: #5CC4BD !important;
 
 }
@@ -3711,7 +3731,17 @@ td, th {
 
 }
 
+#list-units .unittag_geografia_somos_medio:active {
+    background: #A6A1CF !important;
+
+}
+
 #list-units .unittag_biologia_somos_medio:hover {
+    background: #81ca9c !important;
+
+}
+
+#list-units .unittag_biologia_somos_medio:active {
     background: #81ca9c !important;
 
 }
@@ -3721,9 +3751,17 @@ td, th {
 
 }
 
+#list-units .unittag_fisica_somos_medio:active {
+    background: #C78EBF !important;
+
+}
+
 #list-units .unittag_quimica_somos_medio:hover {
     background: #5EB6D4 !important;
 
 }
 
+#list-units .unittag_quimica_somos_medio:active {
+    background: #5EB6D4 !important;
 
+}
