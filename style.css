@@ -874,7 +874,6 @@ h3.bck-title.bck-title-5 strong {
     color: #fff;
     padding: 0px 10px;
     margin-right: 3px;
-    font-size: 15px;
     width: fit-content;
     display: inline-block;
     margin: 0px 3px 10px 3px;
@@ -2885,12 +2884,16 @@ td, th {
         font-size: 2.1rem;
     }
 
+    h3.bck-title.bck-title-5 strong {
+    padding: 0px 5px;
+    font-size: 15px;
+}
+
     .bck-box.bck-box-2 .bck-title {
         border-left-width: 15px;
         font-size: 1.7rem;
         padding: 5px 20px;
     }
-
 
 
     .bck-box.bck-box-2 .bck-content .bck-title-4 {
