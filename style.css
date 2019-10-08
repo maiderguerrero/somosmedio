@@ -398,8 +398,9 @@ body.is_app #actividad .class_slide {
     font-weight: 400;
     background: transparent;
     width: 100%;
-    padding: 13px;
+    padding: 5px;
     border-bottom: 2px solid #333;
+    margin-bottom: 15px;
 }
 
 
