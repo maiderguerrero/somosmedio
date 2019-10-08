@@ -2273,9 +2273,9 @@ td, th {
 }
 
 .btn-primary, .btn-primary.disabled {
-    background-color: #C8DD69;
+    background-color: #818285;
     border-radius: 0;
-    color: #818285;
+    color: #fff;
 }
 
 
