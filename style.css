@@ -182,7 +182,7 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover,
 
 
 #book-index .col-main {
-        background: #31A2C7;
+        background: #a7a7a7;
 }
 
 .libro-left #btn-book-index,
@@ -273,7 +273,7 @@ body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
 }
 
 #book-index #indice .unit-content .actividades .item {
-    background: #87bacc;
+    background: #c8dd69;
     margin: 0px -20px 2px -20px;
     padding-left: 25px;
     opacity: 1;
@@ -283,7 +283,7 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover,
 #book-index #indice .unit-content .actividades .item.active,
 #book-index #indice .unit-content .actividades .item.current {
     color: #fff;
-    background: #31a2c75c;
+    background: #c8dd6969;
 }
 
 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover a,
