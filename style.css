@@ -3651,3 +3651,11 @@ td, th {
     color: #333;
     font-weight: 400;
 }
+
+
+/*--------------------------------------TAGS TOC------------------------------------*/
+
+#list-units .unittag_lengua_somos_medio:hover {
+    background: #C55D9E!important;
+
+}
