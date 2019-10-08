@@ -3656,6 +3656,31 @@ td, th {
 /*--------------------------------------TAGS TOC------------------------------------*/
 
 #list-units .unittag_lengua_somos_medio:hover {
-    background: #C55D9E!important;
+    background: #C55D9E;
+
+}
+
+#list-units .unittag_ingles_somos_medio:hover {
+    background: #e0916b !important;
+
+}
+
+#list-units .unittag_mates_somos_medio:hover {
+    background: #94C274 !important;
+
+}
+
+#list-units .unittag_historia_somos_medio:hover {
+    background: #5CC4BD !important;
+
+}
+
+#list-units .unittag_geografia_somos_medio:hover {
+    background: #A6A1CF !important;
+
+}
+
+#list-units .unittag_biologia_somos_medio:hover {
+    background: #A6A1CF !important;
 
 }
