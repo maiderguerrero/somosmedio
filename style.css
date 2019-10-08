@@ -2838,6 +2838,23 @@ td, th {
 
 }
 
+@media screen and (max-width: 375px) {
+    
+    .bck-title-1 {
+        font-size: 1.6rem;
+    }
+
+    .bck-title-1:before {
+        padding: 0px 10px;
+        margin-right: 5px;
+    }
+
+    .bck-title-5 {
+        font-size: 1.5rem;
+    }
+
+}
+
 
 /*--------------------->TAGS<----------------------*/
 
