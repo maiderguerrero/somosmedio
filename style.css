@@ -3656,7 +3656,7 @@ td, th {
 /*--------------------------------------TAGS TOC------------------------------------*/
 
 #list-units .unittag_lengua_somos_medio:hover {
-    background: #C55D9E;
+    background: #C55D9E !important;
 
 }
 
@@ -3681,6 +3681,18 @@ td, th {
 }
 
 #list-units .unittag_biologia_somos_medio:hover {
-    background: #A6A1CF !important;
+    background: #81ca9c !important;
 
 }
+
+#list-units .unittag_fisica_somos_medio:hover {
+    background: #C78EBF !important;
+
+}
+
+#list-units .unittag_quimica_somos_medio:hover {
+    background: #5EB6D4 !important;
+
+}
+
+
