@@ -486,7 +486,23 @@ fieldset[disabled] .slide_main input {
     height: 50px;
     border-bottom: 1px solid black;
     background: #545759;
+}
+
+.navbar {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background: #545759;
+    min-height: 44px;
+    margin-bottom: 20px;
+    border: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    z-index: 1010;
     background-image: url(images/logo_somos.png);
+
 }
 
 body.is_app .somosmedio-navbar {
