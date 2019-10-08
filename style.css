@@ -269,7 +269,7 @@ body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
 #book-index #indice .unit-content a:focus,
 #indice .units ul li a:focus,
 #indice .actividades a:focus {
-    color: #31A2C7;
+    color: #C8DD69;
 }
 
 #book-index #indice .unit-content .actividades .item {
