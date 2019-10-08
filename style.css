@@ -18,7 +18,7 @@ b, strong {
 
 /*TOC*/
 #indice .units ul li.active:not(.disabled), #indice .units ul li:focus:not(.disabled) {
-    background-color: #333 !important;
+    background-color: #818285 !important;
 }
 
 body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
