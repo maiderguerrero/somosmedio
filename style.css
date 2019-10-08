@@ -2853,6 +2853,26 @@ td, th {
         font-size: 1.5rem;
     }
 
+    .bck-title-4 {
+        font-size: 2.1rem;
+    }
+
+    .bck-box.bck-box-2 .bck-title {
+        border-left: 15px solid #5EB6D4;
+        font-size: 1.7rem;
+        padding: 5px 20px;
+    }
+
+
+
+    .bck-box.bck-box-2 .bck-content .bck-title-4 {
+        font-size: 2.1rem;
+    }
+
+    .bck-box-9 .bck-content {
+        font-size: 2rem;
+    }
+
 }
 
 
