@@ -868,6 +868,18 @@ figure.bck-img2-figure.bck-i-fullscreen.bck-i-fullscreen-enabled {
     padding-top: 5px;
 }
 
+
+h3.bck-title.bck-title-5 strong {
+    background-color: #C8DD69;
+    color: #fff;
+    padding: 0px 10px;
+    margin-right: 3px;
+    font-size: 15px;
+    width: fit-content;
+    display: inline-block;
+    margin: 0px 3px 10px 3px;
+}
+
 /*Título 6*/
 
 .bck-title-6 {
@@ -2805,6 +2817,14 @@ td, th {
 
 /****/
 
+@media screen and (max-width: 1023px) {
+#actividad .carousel-inner .item-container.aux-fullscreen, 
+#actividad .carousel-inner .item-container.aux-bckg {
+    padding-left: 15px;
+}
+
+}
+
 @media screen and (max-width: 768px) {
 
     #actividad .carousel-inner .class_slide {
@@ -2836,6 +2856,13 @@ td, th {
         border-right-width: 20px;
         bottom:0 ;
     }
+
+}
+
+@media screen and (max-width: 579px) {
+.body_clase #actividad .carousel-inner .item-container {
+    margin-top: 0px;
+}
 
 }
 
