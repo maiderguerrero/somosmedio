@@ -1886,6 +1886,17 @@ h3.bck-title.bck-title-5 strong {
     font-size: 1.5rem;
 }
 
+#actividad .workspace.memory .front {
+    z-index: 2;
+    width: 120px;
+    height: 140px;
+    margin: 10px;
+    border-radius: 10px;
+    border: 2px solid #d8d8d8;
+    background-image: url(images/before_retomar.png);
+    transition: all .5s ease;
+}
+
 /*botonera general*/
 #actividad .class_slide .review {
     margin-top: 40px;
