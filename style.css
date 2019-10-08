@@ -488,22 +488,7 @@ fieldset[disabled] .slide_main input {
     background: #545759;
 }
 
-.navbar {
-    position: fixed;
-    width: 100%;
-    top: 0;
-    left: 0;
-    background: #545759;
-    min-height: 44px;
-    margin-bottom: 20px;
-    border: 0;
-    -webkit-border-radius: 0;
-    -moz-border-radius: 0;
-    border-radius: 0;
-    z-index: 1010;
-    background-image: url(images/logo_somos.png);
 
-}
 
 body.is_app .somosmedio-navbar {
     /*top: 0;*/
@@ -526,6 +511,15 @@ body.is_app .somosmedio-navbar.ocultar {
 
 .navbar-bottom {
     padding: 0 20px;
+}
+
+.logo-publisher {
+    float: left;
+    display: block;
+    width: 40px;
+    height: 40px;
+    margin: 5px 0;
+    background: url(logo_somos.png) center center / cover no-repeat;
 }
 
 
