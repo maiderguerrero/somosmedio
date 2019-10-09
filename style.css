@@ -1900,6 +1900,16 @@ h3.bck-title.bck-title-5 strong {
 }
 
 
+.btn-primary[disabled] {
+    color: #fff;
+    background-color: #a7a7a7;
+    border-color: transparent;
+}
+
+.btn-danger {
+    background-color: #ed3780;
+}
+
 /**/
 
 /*ENLACES*/
