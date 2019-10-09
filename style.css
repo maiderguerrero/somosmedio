@@ -2911,7 +2911,15 @@ td, th {
 
     .bck-enfasis-3 {
     font-size: 1.3rem;
- }
+    }
+
+    .no-files {
+    font-size: 1.8rem;
+    }
+
+    .deliverablefile .divtitle .title-deliverablefile {
+     font-size: 20px;   
+    }
 
 }
 
