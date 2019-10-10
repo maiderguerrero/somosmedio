@@ -1914,6 +1914,14 @@ h3.bck-title.bck-title-5 strong {
     background-color: #f15191;
 }
 
+.btn-primary:not([disabled]):hover {
+    background-color: #a7a7a7;
+}
+
+#actividad .content .review .attemps span {
+        background-color: #545759;
+}
+
 /**/
 
 /*ENLACES*/
