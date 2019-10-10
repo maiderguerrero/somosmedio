@@ -2931,6 +2931,10 @@ td, th {
      font-size: 20px;   
     }
 
+    .puzzle-wrapper {
+    width: 90%;
+    }
+
 }
 
 
