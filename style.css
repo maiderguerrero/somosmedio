@@ -1910,6 +1910,10 @@ h3.bck-title.bck-title-5 strong {
     background-color: #ed3780;
 }
 
+.btn-danger:hover {
+    background-color: #f15191;
+}
+
 /**/
 
 /*ENLACES*/
