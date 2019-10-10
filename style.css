@@ -1922,6 +1922,13 @@ h3.bck-title.bck-title-5 strong {
         background-color: #545759;
 }
 
+.btn-solution {
+    color: #fff;
+    background-color: #ed3780;
+    border-color: transparent;
+    border-radius: 0;
+}
+
 /**/
 
 /*ENLACES*/
