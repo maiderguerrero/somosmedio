@@ -1929,6 +1929,10 @@ h3.bck-title.bck-title-5 strong {
     border-radius: 0;
 }
 
+.btn-solution:hover {
+    background-color: #ffafcf;
+}
+
 /**/
 
 /*ENLACES*/
